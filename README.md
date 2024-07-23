@@ -9,7 +9,7 @@ Heart disease is a significant cause of morbidity and mortality worldwide. Predi
 This project focuses on using machine learning algorithms to classify whether a person is likely to have heart disease based on various medical attributes. Initially, a K-Nearest Neighbors (KNN) classifier was employed, achieving an accuracy of 84%. Subsequently, a Random Forest classifier was implemented, achieving an accuracy of 81%.
 
 # Dataset
-The dataset used in this project contains various medical attributes that are hypothesized to be related to heart disease. Attributes include age, sex, cholesterol levels, blood pressure, and others. The dataset is anonymized and sourced from [source name or link].
+The dataset used in this project contains various medical attributes that are hypothesized to be related to heart disease. Attributes include age, sex, cholesterol levels, and others. 
 
 # Requirements
 Python 3.x
